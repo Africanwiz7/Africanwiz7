@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Africanwiz7 also governmentally known as Bohlale
+- 👋 Hi, I’m @Africanwiz7 also governmentally known as Bohlale Sithole 
 - 👀 I’m interested in technology and the magnitude of innovation it has brought through the years and what is yet to come
 - 🌱 I’m currently learning information system that will specialise in software development
 - 💞️ I’m looking to collaborate on any project that will not only assist me in acquiring more knowledge but also something that will assist others 
