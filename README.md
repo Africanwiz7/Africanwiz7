@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Africanwiz7 also governmentally known as Bohlale Sithole 
-- 👀 I’m interested in technology and the magnitude of innovation it has brought through the years and what is yet to come
-- 🌱 I’m currently learning information system that will specialise in software development
-- 💞️ I’m looking to collaborate on any project that will not only assist me in acquiring more knowledge but also something that will assist others 
-- 📫 How to reach me, by easily emailing me  
+- 👋 Hi, I’m  Bohlale Sithole (@Africanwiz7)
+- 🌱 I'm a Software Development graduate with a deep interest in the evolution of technology and the impact of innovation, Having recently completed my studies at Eduvos, i am eager to trabtion from academic theory to professional software enginnering.
+- 💞️ I’m looking to collaborate on: Projects that challenge my problem-solving skills and contribute to meaningful social or techinal solutions.
+- 📫 How to reach me:Feel free to reach out via email for collaborations or opportunities  
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love snacks
+- ⚡ Fun fact: I'm big on snacks and looking forward for new tech productivity hacks 
 
 <!---
 Africanwiz7/Africanwiz7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
